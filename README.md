@@ -1,2 +1,2 @@
 # Programação C# basico
- Programação C#, Aula Nome e Sobrenome
+Programa Básico em C# Concatenação Obs: Dentro da Subpastas obj/Debug , tem o programa executavel
